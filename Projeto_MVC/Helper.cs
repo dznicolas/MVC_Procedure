@@ -1,14 +1,13 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Filters;
+﻿using Microsoft.AspNetCore.Mvc.Filters;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.AspNetCore.Mvc.ViewEngines;
 using Microsoft.AspNetCore.Mvc.ViewFeatures;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Projeto_MVC
 {
     public class Helper
     {
-
         public static string RenderRazorViewToString(Controller controller, string viewName, object model = null)
         {
             controller.ViewData.Model = model;
@@ -42,6 +41,5 @@ namespace Projeto_MVC
                 }
             }
         }
-
     }
 }

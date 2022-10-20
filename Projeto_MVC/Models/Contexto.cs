@@ -10,7 +10,8 @@ namespace Projeto_MVC.Models
             Database.EnsureCreated();
         }
 
-        public DbSet<Cliente> Cliente { get; set; }
+        public DbSet<Imovel> Imovel { get; set; }
+
 
     }
 }

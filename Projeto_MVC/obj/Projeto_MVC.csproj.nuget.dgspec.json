@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ND\\Desktop\\Projeto_Teste\\Projeto_MVC\\Projeto_MVC.csproj": {}
+    "C:\\Users\\ND\\Desktop\\Projeto_MVC\\Projeto_MVC\\Projeto_MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ND\\Desktop\\Projeto_Teste\\Projeto_MVC\\Projeto_MVC.csproj": {
+    "C:\\Users\\ND\\Desktop\\Projeto_MVC\\Projeto_MVC\\Projeto_MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ND\\Desktop\\Projeto_Teste\\Projeto_MVC\\Projeto_MVC.csproj",
+        "projectUniqueName": "C:\\Users\\ND\\Desktop\\Projeto_MVC\\Projeto_MVC\\Projeto_MVC.csproj",
         "projectName": "Projeto_MVC",
-        "projectPath": "C:\\Users\\ND\\Desktop\\Projeto_Teste\\Projeto_MVC\\Projeto_MVC.csproj",
+        "projectPath": "C:\\Users\\ND\\Desktop\\Projeto_MVC\\Projeto_MVC\\Projeto_MVC.csproj",
         "packagesPath": "C:\\Users\\ND\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ND\\Desktop\\Projeto_Teste\\Projeto_MVC\\obj\\",
+        "outputPath": "C:\\Users\\ND\\Desktop\\Projeto_MVC\\Projeto_MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ND\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,29 +42,33 @@
           "dependencies": {
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
-              "version": "[6.0.9, )"
+              "version": "[6.0.10, )"
             },
-            "Microsoft.AspNetCore.Razor.Runtime": {
+            "Microsoft.AspNetCore.Razor": {
               "target": "Package",
               "version": "[2.2.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.9, )"
+              "version": "[6.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.9, )"
+              "version": "[6.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.9, )"
+              "version": "[6.0.10, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[6.0.9, )"
+              "version": "[6.0.10, )"
+            },
+            "System.Linq": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             }
           },
           "imports": [

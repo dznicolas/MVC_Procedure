@@ -29,15 +29,17 @@ body {
     font-size: 20px;
     color: #FFF;
 }
-.navbar-brand, .nav-link{
+
+.navbar-brand, .nav-link {
     color: #FFF;
 }
 
-.navbar-brand:hover, .nav-link:hover {
-    color: #9ac3ff;
-    transition: 0.5s;
-}
-.options{
+    .navbar-brand:hover, .nav-link:hover {
+        color: #9ac3ff;
+        transition: 0.5s;
+    }
+
+.options {
     white-space: nowrap;
 }
 

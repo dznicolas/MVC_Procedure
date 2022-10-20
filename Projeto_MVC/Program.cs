@@ -13,6 +13,7 @@ builder.Services.AddDbContext<Contexto>
 
 var app = builder.Build();
 
+
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {

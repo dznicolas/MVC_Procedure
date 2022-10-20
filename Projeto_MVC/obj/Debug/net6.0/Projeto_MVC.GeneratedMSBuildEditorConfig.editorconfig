@@ -8,65 +8,57 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Projeto_MVC
 build_property.RootNamespace = Projeto_MVC
-build_property.ProjectDir = C:\Users\ND\Desktop\Projeto_Teste\Projeto_MVC\
+build_property.ProjectDir = C:\Users\ND\Desktop\Projeto_MVC\Projeto_MVC\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = C:\Users\ND\Desktop\Projeto_Teste\Projeto_MVC
+build_property.MSBuildProjectDirectory = C:\Users\ND\Desktop\Projeto_MVC\Projeto_MVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ND/Desktop/Projeto_Teste/Projeto_MVC/Views/Clientes/AddOrEdit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQWRkT3JFZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ND/Desktop/Projeto_Teste/Projeto_MVC/Views/Clientes/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ND/Desktop/Projeto_Teste/Projeto_MVC/Views/Clientes/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ND/Desktop/Projeto_Teste/Projeto_MVC/Views/Clientes/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ND/Desktop/Projeto_Teste/Projeto_MVC/Views/Clientes/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ND/Desktop/Projeto_Teste/Projeto_MVC/Views/Clientes/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ND/Desktop/Projeto_Teste/Projeto_MVC/Views/Clientes/_ViewAll.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcX1ZpZXdBbGwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ND/Desktop/Projeto_Teste/Projeto_MVC/Views/Home/Index.cshtml]
+[C:/Users/ND/Desktop/Projeto_MVC/Projeto_MVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ND/Desktop/Projeto_Teste/Projeto_MVC/Views/Home/Privacy.cshtml]
+[C:/Users/ND/Desktop/Projeto_MVC/Projeto_MVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ND/Desktop/Projeto_Teste/Projeto_MVC/Views/Shared/Error.cshtml]
+[C:/Users/ND/Desktop/Projeto_MVC/Projeto_MVC/Views/Imovel/AddOrEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1vdmVsXEFkZE9yRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ND/Desktop/Projeto_MVC/Projeto_MVC/Views/Imovel/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1vdmVsXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ND/Desktop/Projeto_MVC/Projeto_MVC/Views/Imovel/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1vdmVsXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ND/Desktop/Projeto_MVC/Projeto_MVC/Views/Imovel/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1vdmVsXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ND/Desktop/Projeto_MVC/Projeto_MVC/Views/Imovel/_ViewAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1vdmVsXF9WaWV3QWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ND/Desktop/Projeto_MVC/Projeto_MVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ND/Desktop/Projeto_Teste/Projeto_MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ND/Desktop/Projeto_MVC/Projeto_MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ND/Desktop/Projeto_Teste/Projeto_MVC/Views/_ViewImports.cshtml]
+[C:/Users/ND/Desktop/Projeto_MVC/Projeto_MVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ND/Desktop/Projeto_Teste/Projeto_MVC/Views/_ViewStart.cshtml]
+[C:/Users/ND/Desktop/Projeto_MVC/Projeto_MVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ND/Desktop/Projeto_Teste/Projeto_MVC/Views/Shared/_Layout.cshtml]
+[C:/Users/ND/Desktop/Projeto_MVC/Projeto_MVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-klfrrlrext

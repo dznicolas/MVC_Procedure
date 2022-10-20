@@ -55,6 +55,7 @@ showInPopup = (url, title) => {
         }
     })
 }
+
 jQueryAjaxPost = form => {
     try {
         $.ajax({
@@ -70,7 +71,9 @@ jQueryAjaxPost = form => {
                     $('#form-modal .modal-title').html('');
                     $('#form-modal').modal('hide');
                     $.notify("Cadastrado com sucesso!", { globalPosition: "top center", className: "success" });
-                    history.go(0);
+                    setTimeout(function () {
+                        window.location.reload(1);
+                    }, 1000);
                 }
                 else
                     $('#form-modal .modal-body').html(res.html);
@@ -79,10 +82,11 @@ jQueryAjaxPost = form => {
                 console.log(err)
             }
         })
-    } catch (e) {
-        console.log(e)
+        
+        return false;
+    } catch (ex) {
+        console.log(ex)
     }
-    return false;
 }
 
 jQueryAjaxDelete = form => {
@@ -97,16 +101,19 @@ jQueryAjaxDelete = form => {
                 success: function (res) {
                     $('#view-all').html(res.html);
                     $.notify("Exclusão realizada com sucesso!", { globalPosition: "top center", className: "success" });
-                    history.go(0);
+                    setTimeout(function () {
+                        window.location.reload(1);
+                    }, 1000);
                 },
                 error: function (err) {
                     console.log(err)
                 }
             })
-        } catch (e) {
-            console.log(e)
+        } catch (ex) {
+            console.log(ex)
         }
     }
 
+    //prevent default form submit event
     return false;
 }
